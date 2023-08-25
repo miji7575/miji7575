@@ -1,5 +1,3 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82)](https://git.io/typing-svg)
 <style>
   .section {
      display: flex;
@@ -10,6 +8,8 @@
      display:flex;
   }
 </style>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82)](https://git.io/typing-svg)
+
 ### skills
 <div class="section">
   <div class="group">
