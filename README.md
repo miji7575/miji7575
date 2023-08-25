@@ -1,31 +1,35 @@
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82" alt="Typing SVG" />
-</a>
-<div style={ width : 100%; height : 100% display: flex; flex-direction: column; align-items: center; justify-content: center;}> 
- <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82" alt="Typing SVG" />
-</a>
 
-### skills
- <div style={display: flex; flex-direction: column;}>
-  <div style={display: flex;}>
-    <img src="https://img.shields.io/badge/Next.Js-000000?style=flat&logo=Next.Js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
-  </div>
-   <div style={display: flex;}>
-    <img src="https://img.shields.io/badge/Node.Js-339933?style=flat&logo=Node.Js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
-  </div>
-   <div style={display: flex;}>
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=HTML&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=CSS&logoColor=white"/>
-  </div>
-</div>
+<div style={ width : 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center;}> 
+
+      <div style={display: flex; flex-direction: column; align-items: center; justify-content: center;}>
+
+      
+           <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82" alt="Typing SVG" />
+          </a>
+     
+          ### skills
+           <div style={display: flex; flex-direction: column;}>
+       
+               <div style={display: flex;}>
+                    <img src="https://img.shields.io/badge/Next.Js-000000?style=flat&logo=Next.Js&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
+               </div>
+               <div style={display: flex;}>
+                    <img src="https://img.shields.io/badge/Node.Js-339933?style=flat&logo=Node.Js&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
+               </div>
+               <div style={display: flex;}>
+                    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=HTML&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=CSS&logoColor=white"/>
+               </div>
+          </div>
+     </div>
 
 </div>
 
