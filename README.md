@@ -1,6 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82" alt="Typing SVG" /></a>
-<div style={display: flex; flex-direction: column; align-items: center; justify-content: center;}> 
- 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82" alt="Typing SVG" />
+</a>
+<div style={ width : 100%; height : 100% display: flex; flex-direction: column; align-items: center; justify-content: center;}> 
+ <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82" alt="Typing SVG" />
+</a>
 
 ### skills
  <div style={display: flex; flex-direction: column;}>
@@ -18,8 +22,8 @@
   </div>
    <div style={display: flex;}>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=HTML&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=CSS&logoColor=white"/>
   </div>
 </div>
 
