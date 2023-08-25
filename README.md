@@ -1,5 +1,5 @@
 
-<div style={ width : 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center;}> 
+
 
 
 
@@ -29,8 +29,6 @@
                     <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=CSS&logoColor=white"/>
                </div>
           </div>
-
-</div>
 
 
 
