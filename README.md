@@ -1,4 +1,4 @@
-<div style={display: flex; flex-direction: column; align-items: center; width:100vh;}>
+<div style={display: flex; flex-direction: column; align-items: center; background-color:red;}>
  <div  style={display: flex; flex-direction: column; align-items: center;}>
  <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=50&duration=3500&pause=3000&color=46A0F7&center=true&vCenter=true&width=435&height=100&lines=Hello%2C+I'm+miji+%F0%9F%99%82" alt="Typing SVG" />
