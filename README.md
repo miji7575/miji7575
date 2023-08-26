@@ -1,4 +1,4 @@
- <style>
+<style>
  .section{
   display: flex;
   flex-direction: column;
@@ -6,7 +6,7 @@
  .group{
   display: flex;
  }
- </style>
+</style>
 
  
  <a href="https://git.io/typing-svg">
