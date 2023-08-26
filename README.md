@@ -5,9 +5,9 @@
  </a>
      
 ### skills
-<div style={display: flex; flex-direction: column;}>
+<div style={display: flex; flex-direction: column; align-items: flex-start;}>
 
-   <div align="left" >
+   <div style={display: flex;} >
         <img src="https://img.shields.io/badge/Next.Js-000000?style=flat&logo=Next.Js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
         <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
